@@ -6,11 +6,17 @@
 }
 
 
+
 marquee{
     color: white;
     font-size: 60px;
     padding: 2px;
     background: rgb(50, 205, 192);
+}
+
+marquee span{
+  color:red;
+  font-size: 35px;
 }
 
 .owner{
@@ -22,6 +28,7 @@ marquee{
 .owner .product-container p{
     color: aqua;
 }
+
 
 
     .product-container {
@@ -38,6 +45,8 @@ marquee{
       box-shadow: 5px 4px #524f4f;
       border-radius: 5px;
       text-align: center;
+      background: transparent;
+      cursor: pointer;
     }
 
     .product img {
@@ -45,6 +54,8 @@ marquee{
       height: 200px;
       object-fit: cover;
       margin-bottom: 10px;
+      background: transparent;
+
     }
 
     .product h3 {
