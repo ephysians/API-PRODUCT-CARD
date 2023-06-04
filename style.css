@@ -13,6 +13,12 @@ marquee{
     background: rgb(50, 205, 192);
 }
 
+h1{
+    background: Teal;
+    position:grid;
+    place-item: center;
+}
+
 .owner{
     background: #06283d;
     color: white;
