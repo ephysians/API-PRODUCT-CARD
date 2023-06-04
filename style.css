@@ -17,7 +17,7 @@ main{
     background: Teal;
     display: flex;
     align-item: center;
-    justify-content: space between
+    justify-content: space between;
 }
 
 .owner{
