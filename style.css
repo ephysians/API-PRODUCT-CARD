@@ -13,10 +13,11 @@ marquee{
     background: rgb(50, 205, 192);
 }
 
-h1{
+main{
     background: Teal;
-    position:grid;
-    place-item: center;
+    display: flex;
+    align-item: center;
+    justify-content: space between
 }
 
 .owner{
