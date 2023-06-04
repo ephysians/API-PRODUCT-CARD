@@ -18,6 +18,7 @@ main{
     display: flex;
     align-item: center;
     justify-content: space between;
+    font-size: 1rem;
 }
 
 .owner{
