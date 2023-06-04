@@ -31,16 +31,13 @@ following ways:
 The product-card uses an external API to fetch product data. By default, it is configured to use a sample API. 
 If you want to use your own API or modify the existing one, follow these steps:
 
-1. Open the script.js file in a text editor.
-2. Locate the API_URL constant at the top of the file.
-3. Update the value of API_URL with your desired API endpoint.
+### 1. Open the script.js file in a text editor.
+###2. Locate the API_URL constant at the top of the file.
+###3. Update the value of API_URL with your desired API endpoint.
 
 ##      Contributing
 Contributions are welcome! If you have any ideas for improvements, bug fixes, or new features, feel free to submit a pull request.
 Please ensure your code follows the project's coding style and conventions.
-
-##      License
-This project is licensed under the MIT License. Feel free to modify and distribute the code as per the terms of the license.
 
 ##      Acknowledgements
 This project utilizes the API  to retrieve product information.
