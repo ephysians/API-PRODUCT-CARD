@@ -19,6 +19,7 @@ main{
     align-item: center;
     justify-content: space-between;
     font-size: 1rem;
+    padding: 0 1.25rem;
 }
 
 .owner{
