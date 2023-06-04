@@ -12,9 +12,8 @@ You can see a live demo of the product-card in action here.
 ##           INSTALLATION
 To run the product-card locally, follow these steps:
 
-1. Clone the repository:
-Copy code   [ git clone https://github.com/ephysians/product-card.git ]
-2. Navigate to the project directory: Copy code [ cd product-card ]
+1. Clone the repository: Copy code  "git clone https://github.com/ephysians/product-card.git" 
+2. Navigate to the project directory: Copy code "cd product-card"
 3. Open the index.html file in your preferred web browser.
 
 ##             USAGE
@@ -32,16 +31,16 @@ The product-card uses an external API to fetch product data. By default, it is c
 If you want to use your own API or modify the existing one, follow these steps:
 
 ### 1. Open the script.js file in a text editor.
-###2. Locate the API_URL constant at the top of the file.
-###3. Update the value of API_URL with your desired API endpoint.
+### 2. Locate the API_URL constant at the top of the file.
+### 3. Update the value of API_URL with your desired API endpoint.
 
 ##      Contributing
 Contributions are welcome! If you have any ideas for improvements, bug fixes, or new features, feel free to submit a pull request.
 Please ensure your code follows the project's coding style and conventions.
 
 ##      Acknowledgements
-This project utilizes the API  to retrieve product information.
-The card design is inspired by Source of Inspiration.
+* This project utilizes the API "https://fakestoreapi.com/products" to retrieve product information.
+* The card design is inspired by Source of Inspiration.
 
 ##      Contact
 If you have any questions, suggestions, or feedback, you can reach me at ochukwukere@yahoo.com.
