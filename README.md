@@ -12,7 +12,7 @@ You can see a live demo of the product-card in action here.
 ##           INSTALLATION
 To run the product-card locally, follow these steps:
 
-1. Clone the repository: Copy code  "git clone https://github.com/ephysians/product-card.git" 
+1. Clone the repository: Copy code  "git clone https://github.com/ephysians/API-PRODUCT-CARD.git" 
 2. Navigate to the project directory: Copy code "cd product-card"
 3. Open the index.html file in your preferred web browser.
 
