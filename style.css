@@ -13,7 +13,7 @@ marquee{
     background: rgb(50, 205, 192);
 }
 
-main{
+onediv{
     background: Teal;
     position: absolute;
     font-size: 1rem;
